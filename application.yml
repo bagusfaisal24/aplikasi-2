@@ -1,0 +1,7 @@
+app:
+  security:
+    uri_backend: http://localhost:8081
+server:
+  port: 8082
+
+
