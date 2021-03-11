@@ -9,7 +9,7 @@
 ## APPLICATION DEFINITION
 
 - Project aplikasi 1 as Rest Server running on port 8081
-- Project aplikasi 1 as Rest Client running on port 8082
+- Project aplikasi 2 as Rest Client running on port 8082
 
 ## EXAMPLE API REQUEST
 
